@@ -1,0 +1,19 @@
+2023-12-06T16:28:14+00:00 INFO Rest api key: consumer secret does not exist during notice
+2023-12-06T16:28:22+00:00 INFO Rest api key: consumer secret does not exist during notice
+2023-12-06T16:29:54+00:00 INFO Rest api key: consumer secret does not exist during notice
+2023-12-06T16:30:00+00:00 INFO Rest api key: consumer secret does not exist during notice
+2023-12-06T16:30:27+00:00 INFO Rest api key: consumer secret does not exist during notice
+2023-12-06T16:30:39+00:00 INFO Rest api key: consumer secret does not exist during notice
+2023-12-06T16:31:24+00:00 INFO Rest api key: consumer secret does not exist during notice
+2023-12-06T16:31:30+00:00 INFO Rest api key: consumer secret does not exist during notice
+2023-12-06T16:32:39+00:00 INFO Rest api key: invalid keys
+2023-12-06T16:32:39+00:00 INFO Rest api key: consumer secret does not exist during notice
+2023-12-06T16:33:01+00:00 INFO Rest api key: consumer secret does not exist during notice
+2023-12-06T16:33:18+00:00 INFO Rest api key: consumer secret does not exist during notice
+2023-12-06T16:36:10+00:00 INFO Rest api key: consumer secret does not exist during notice
+2023-12-06T16:36:34+00:00 INFO Rest api key: consumer secret does not exist during notice
+2023-12-06T16:36:49+00:00 INFO Rest api key: consumer secret does not exist during notice
+2023-12-06T16:46:31+00:00 INFO 75: Shipday Order Management Process started
+2023-12-06T16:46:31+00:00 INFO 75: Shipday Order Management Process post sending starts
+2023-12-06T16:46:32+00:00 INFO {"pdm1LmzgrU.XkPlm9C6HI3ZHjGKZ3SL":[{"orderNumber":75,"additionalId":75,"customerName":"rw dsfsd","customerAddress":"dfs, dfs, California, 31824, United States (US)","customerPhoneNumber":"","customerEmail":"gaja6502@gmail.com","tips":0,"tax":"0","discountAmount":750,"deliveryFee":"0","totalOrderCost":"0.00","dropoff":{"address":{"unit":"","street":"dfs","city":"dfs","state":"California","zip":"31824","country":"United States (US)"}},"orderItem":[{"name":"BBQ Chicken Pizza","quantity":1,"unitPrice":"750"}],"paymentMethod":"","deliveryInstruction":". ","restaurantName":"Chittai Food","restaurantAddress":", , California, , United States (US)","orderSource":"WooCommerce","signature":{"version":"1.7","wooVersion":"8.3.1","url":"https:\/\/clothes-shop.rf.gd","datetime modifiers":[],"timezone":"+00:00","type":"single-vendor","plugin":"vanilla"},"uuid":"899b772f-03ed-4e3f-a2ba-1554ae4faad4"}]}
+2023-12-06T16:46:33+00:00 INFO 75: Shipday Order Management Process post successfully sent

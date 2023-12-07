@@ -1,0 +1,73 @@
+@media screen and (max-width: 29.938em) {
+.heder-rightside{float:none;}
+.head-info-area .left .phntp{border-right:none;}
+.container{padding:30px 15px;}
+.skt-header-quote-btn{float:right; width:100%; margin:10px 0 15px 0; padding:0 0 6px 0;}
+.skt-header-quote-btn a{bottom:0px; left:-25%;}
+.head-info-area .left .phntp{padding-right:0px;}
+.head-info-area .left .emltp{margin-left:0px; padding:0 5px 13px 5px;}
+.header .container{width:100%;}
+.footer-row .widget_nav_menu ul{margin-left:-10px;}
+}
+
+@media screen and (max-width:47.938em) and (min-width:30.000em) {
+.skt-header-quote-btn{margin-top:0px; margin-bottom:20px;}
+.skt-header-quote-btn a{bottom:0px;}
+.heder-rightside{margin-left:15px; width:auto;}
+.skt-header-quote-btn{margin-right:15px;}
+.container{padding:20px 15px;}
+.main-navigation button.menu-toggle{margin:inherit;}
+.main-navigation.toggled ul li a{padding-left:0px;}
+.main-navigation.toggled ul li li a{padding-left:10px;}
+.header .container{width:100%;}
+}
+
+@media screen and (max-width:63.938em) and (min-width:48.000em) {	
+.skt-header-quote-btn{margin:0px; margin: -20px 0 0 0;}
+.header .container{padding:0 15px;}
+body.wp-custom-logo .logo{padding:26px 35px 16px 0 !important;}
+}
+
+@media screen and (max-width:72.438em) and (min-width:63.250em) {
+.skt-header-quote-btn{margin-top:30px;}
+}
+
+@media screen and (max-width:1017px) and (min-width:981px) {
+.skt-header-quote-btn{margin-top:30px;}	
+}
+
+@media screen and (max-width:767px) {
+.menuareatop{width:100%;}	
+.main-navigation button.menu-toggle{z-index:999; margin:0 auto;}	
+.menu-toggle span{background-color:#FFF;}
+.toggled .menu-toggle span{background-color:#fd7500;}
+.header-extras{float:left; width:auto; margin:0 0 0 20px;}
+.header-cart{ float:right; text-align:right; display:block; margin:5px 40px 20px 0;} 
+.header-extras .header-search-form{bottom:-35px;}
+.header-extras .header-search-form .search-field{background-color:#fd7500;}
+.logo:before{border-radius:0px; width:100%; left:0; right:0; top:-235px;}
+#navigation{padding:10px 0;}
+.transheader{background-color: #191919 !important;}
+}
+
+@media screen and (max-width:1024px) and (min-width:768px) {
+#navigation{ float:right; text-align:right;}
+.main-navigation button.menu-toggle{margin:inherit !important; float:right !important; text-align:right !important; margin-top:-25px !important;}	
+body.woocommerce .heder-rightside, .heder-rightside{float:right; width:100%;}
+.menu-toggle span{background-color:#FFF;}
+.logo:before{left:-160px;}
+.header-right-infos{padding-right:34px; margin-top:-5px; margin-bottom:10px;}
+.header-extras{padding-right:0px;}
+.header-extras .header-search-form{bottom:-44px;}
+.header-search-toggle{margin-top:2px;}
+.header .container{width:100%;}
+}
+
+@media screen and (max-width:1169px) and (min-width:1024px) {
+.header .container{width:100%;}	
+.menuareatop{width:55%;}	
+body.woocommerce .heder-rightside, .heder-rightside{float:right; width:20%; padding-right:30px;}
+.header-right-infos{margin-top:0px;}
+.header-extras{padding-right:0px;}
+.restara-banner{margin-top:-150px !important;}
+}
